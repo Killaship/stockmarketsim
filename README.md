@@ -3,6 +3,7 @@ a stock market simulator (terminal based) made in python
 
 
 buy stocks. sell them. simple as that.
+
 you start out in your mom's garage.
 
 
